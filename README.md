@@ -41,6 +41,6 @@ Check out the live version of my portfolio: [My Portfolio Website](https://sande
 ## Contact
 Feel free to reach out to me via:
 - **LinkedIn**: [Sandeep's LinkedIn](https://www.linkedin.com/in/sandeep74/)
-- **Email**: [sandeep@example.com](mailto:sandeepdavsr09@gmail.com)
+- **Email**: [sandeepdavsr09@gmail.com](mailto:sandeepdavsr09@gmail.com)
 
 Thank you for visiting my portfolio!
